@@ -15,7 +15,7 @@ header{
   margin:0;
   background:rgb(214, 80, 2);
   border:8px solid rgb(238, 124, 0);
-  background:url(imagekara.jpg) 100%/cover rgb(255, 255, 255);
+  background:url(imagekara.png) 100%/cover rgb(255, 255, 255);
   position:relative;
   /* rgb(214, 80, 2); */
 }
@@ -76,7 +76,7 @@ button{
 }
 /* セクション１ */
 .s1{
-  background:url(image1.jpg)  0 45%/cover rgb(214, 80, 2);
+  background:url(image1.png)  0 45%/cover rgb(214, 80, 2);
   /* rgb(214, 80, 2) */
 }
 /* セクション２ */

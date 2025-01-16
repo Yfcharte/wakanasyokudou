@@ -187,7 +187,7 @@ footer{
     height:500px;
   }
   .s1{
-    background:url(image1.jpg)  center/cover rgb(214, 80, 2);
+    background:url(Image1.jpg)  center/cover rgb(214, 80, 2);
 
   }
   .f-1{
@@ -223,7 +223,7 @@ footer{
 }
 @media(max-width:700px){
   header{
-      background:url(imagekara.jpg) center/cover rgb(255, 255, 255);
+      background:url(Imagekara.jpg) center/cover rgb(255, 255, 255);
   }
   .logo{
     width:300px ;

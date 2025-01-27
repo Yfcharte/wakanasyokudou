@@ -234,9 +234,15 @@ footer{
   width:300px;
   height:300px;
 }
+.nav_back{
+  background:rgba(243, 222, 103) ;
+}
+nav{
+  margin:auto;
+  width: calc(100% - 16px);
+}
 button{
   width:100%;
-  border-radius:20px;
 }
 .small_title{
   font-size:84px;

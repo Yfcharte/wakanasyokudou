@@ -149,10 +149,14 @@ li{
   display:flex;
   flex-direction: row;
 }
-
+.stitle_coment{
+  background:url() 0 10%/cover rgb(214, 80, 2);
+}
+.stitle_plainfo{
+  background:url(tenpo.png)  0 10%/cover rgb(214, 80, 2);
+}
 .info_back{
   width: 50%;
-  background:url()  0 10%/cover rgb(214, 80, 2);
   height: 500px;
   padding:0 0 0 0;
   display:flex;
